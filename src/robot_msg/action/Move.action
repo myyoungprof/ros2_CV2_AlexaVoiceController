@@ -1,0 +1,12 @@
+# Move.action
+
+# Goal         
+int32 direction
+int32 distance
+---
+# Result
+bool success
+string message
+---
+# Feedback
+string feedback
